@@ -24,6 +24,9 @@ propertyvalue = prop.getProperty(propertname);
 		}
 		return propertyvalue;
 		
+	
+	
+	
 	}
 
 }
