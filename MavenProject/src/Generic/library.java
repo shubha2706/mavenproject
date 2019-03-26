@@ -7,6 +7,8 @@ public class library implements Autoconstant {
 	
 	public static String getpropertyvalue(String propertname)
 	{
+		
+		
 		String propertyvalue = " ";
 		Properties prop = new Properties();
 		try

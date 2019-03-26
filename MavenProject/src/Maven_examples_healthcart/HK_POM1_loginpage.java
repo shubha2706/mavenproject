@@ -9,6 +9,16 @@ import Generic.baseTest;
 
 public class HK_POM1_loginpage extends baseTest {
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	@FindBy(linkText="Login")
 	WebElement login;
 	
