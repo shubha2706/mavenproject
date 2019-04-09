@@ -2,6 +2,8 @@ package Generic;
 
 public interface Autoconstant {
 	
+
+	
 String CHROMEPATH = "./Drivers/chromedriver.exe";
 String CHROMEKEY  ="webdriver.chrome.driver";
 
